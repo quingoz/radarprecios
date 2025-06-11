@@ -2,7 +2,7 @@
 headerCliente($data);
 ?>
 <div class="container-fluid py-4">
-    <style type="text/css">
+    <style type="text/css" class="prueba">
     #mapa {
         height: 100%;
         width: 100%;
