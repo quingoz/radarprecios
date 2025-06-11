@@ -1,0 +1,33 @@
+{
+  "name": "ADN Panel",
+  "short_name": "ADN Panel",
+  "description": "Herramienta de Business Intelligence",
+  "background_color": "#fff",
+  "theme_color": "#fff",
+  "orientation": "any",
+  "display": "fullscreen",
+  "id":"./?utm_source=web_app_manifest",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-VE",
+  "icons": [
+    {
+      "src": "./Assets/img/icons/icon_5000.png",
+      "sizes": "5000x5000",
+      "type": "image/png"
+    },
+    
+    {
+      "src": "./Assets/img/icons/icon_2000.png",
+      "sizes": "2000x2000",
+      "type": "image/png"
+    },
+    
+    {
+      "src": "./Assets/img/icons/icon_1000.png",
+      "sizes": "1000x1000",
+      "type": "image/png"
+    }
+    
+  ]
+}
